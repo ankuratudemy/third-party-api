@@ -1,1 +1,8 @@
-
+{
+  "users":[
+    {
+      "email": "ankuratudemy@gmail.com",
+      "id":1
+    }
+  ]
+}
